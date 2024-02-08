@@ -165,10 +165,10 @@ border-radius: 10px;
   border-radius: 10px;
 }
 
-a:link { color: #b6b6b6; }
-a:visited { color: #b6b6b6; }
-a:hover { color: #b6b6b6; }
-a:active { color: #b6b6b6; }
+a:link { color: #cccccc; }
+a:visited { color: #cccccc; }
+a:hover { color: #cccccc; }
+a:active { color: #cccccc; }
 
 .btnwelcome {
   all: unset;
